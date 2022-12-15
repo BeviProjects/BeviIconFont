@@ -25,7 +25,7 @@ https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@latest/dist/compressed/mai
 ### Versão 1.0:
 
 ```bash
-https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@374d3a7/dist/compressed/main.css
+https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@1b503a1/dist/compressed/main.css
 ```
 
 ### Link HTML:
