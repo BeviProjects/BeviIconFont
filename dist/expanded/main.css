@@ -1,0 +1,261 @@
+@font-face {
+  font-family: "bevi";
+  src: url("../../lib/font/bevi.eot?8s4krj");
+  src: url("../../lib/font/bevi.eot?8s4krj#iefix") format("embedded-opentype"), url("../../lib/font/bevi.ttf?8s4krj") format("truetype"), url("../../lib/font/bevi.woff?8s4krj") format("woff"), url("../../lib/font/bevi.svg?8s4krj#bevi") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "bevi" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bi-account-box-solid:before {
+  content: "\e900";
+}
+
+.bi-agriculture-solid:before {
+  content: "\e901";
+}
+
+.bi-arrow-circle-right-solid:before {
+  content: "\e902";
+}
+
+.bi-arrow-selector-tool-solid:before {
+  content: "\e903";
+}
+
+.bi-autorenew-solid:before {
+  content: "\e904";
+}
+
+.bi-bevipentagono-solid:before {
+  content: "\e905";
+}
+
+.bi-beviprotege-solid:before {
+  content: "\e906";
+}
+
+.bi-blocks-solid:before {
+  content: "\e907";
+}
+
+.bi-bolt-solid:before {
+  content: "\e908";
+}
+
+.bi-book-solid:before {
+  content: "\e909";
+}
+
+.bi-campaign-solid:before {
+  content: "\e90a";
+}
+
+.bi-chalkboard-user-solid:before {
+  content: "\e90b";
+}
+
+.bi-chart-line-up-solid:before {
+  content: "\e90c";
+}
+
+.bi-cloud-solid:before {
+  content: "\e90d";
+}
+
+.bi-construction-solid:before {
+  content: "\e90e";
+}
+
+.bi-credit-card-solid:before {
+  content: "\e90f";
+}
+
+.bi-cube-solid:before {
+  content: "\e910";
+}
+
+.bi-directions-car-solid:before {
+  content: "\e911";
+}
+
+.bi-door-open-solid:before {
+  content: "\e912";
+}
+
+.bi-eco-solid:before {
+  content: "\e913";
+}
+
+.bi-emergency-home-solid:before {
+  content: "\e914";
+}
+
+.bi-event-solid:before {
+  content: "\e915";
+}
+
+.bi-face-retouching-natural-solid:before {
+  content: "\e916";
+}
+
+.bi-falabevi-solid:before {
+  content: "\e917";
+}
+
+.bi-fgts-solid:before {
+  content: "\e918";
+}
+
+.bi-groups-solid:before {
+  content: "\e919";
+}
+
+.bi-hand-archive-solid:before {
+  content: "\e91a";
+}
+
+.bi-hand-credit-card-solid:before {
+  content: "\e91b";
+}
+
+.bi-hand-house-solid:before {
+  content: "\e91c";
+}
+
+.bi-hand-money-solid:before {
+  content: "\e91d";
+}
+
+.bi-handshake-business-solid:before {
+  content: "\e91e";
+}
+
+.bi-headset-mic-solid:before {
+  content: "\e91f";
+}
+
+.bi-heart-solid:before {
+  content: "\e920";
+}
+
+.bi-home-solid:before {
+  content: "\e921";
+}
+
+.bi-house-car-solid:before {
+  content: "\e922";
+}
+
+.bi-key-solid:before {
+  content: "\e923";
+}
+
+.bi-label-solid:before {
+  content: "\e924";
+}
+
+.bi-lightbulb-solid:before {
+  content: "\e925";
+}
+
+.bi-local-shipping-solid:before {
+  content: "\e926";
+}
+
+.bi-luggage-solid:before {
+  content: "\e927";
+}
+
+.bi-medal-solid:before {
+  content: "\e928";
+}
+
+.bi-money-solid:before {
+  content: "\e929";
+}
+
+.bi-person-remove-solid:before {
+  content: "\e92a";
+}
+
+.bi-person-solid:before {
+  content: "\e92b";
+}
+
+.bi-place-solid:before {
+  content: "\e92c";
+}
+
+.bi-question-answer-solid:before {
+  content: "\e92d";
+}
+
+.bi-sack-money-solid:before {
+  content: "\e92e";
+}
+
+.bi-saving-pigs-solid:before {
+  content: "\e92f";
+}
+
+.bi-search-solid:before {
+  content: "\e930";
+}
+
+.bi-smart-display-solid:before {
+  content: "\e931";
+}
+
+.bi-smartphone-solid:before {
+  content: "\e932";
+}
+
+.bi-snap-solid:before {
+  content: "\e933";
+}
+
+.bi-solar-panel-solid:before {
+  content: "\e934";
+}
+
+.bi-swipe-right-solid:before {
+  content: "\e935";
+}
+
+.bi-target-solid:before {
+  content: "\e936";
+}
+
+.bi-verified-solid:before {
+  content: "\e937";
+}
+
+.bi-warning-solid:before {
+  content: "\e938";
+}
+
+.bi-watch-later-solid:before {
+  content: "\e939";
+}
+
+.bi-wifi-solid:before {
+  content: "\e93a";
+}
+
+.bi-work-solid:before {
+  content: "\e93b";
+}
