@@ -8,9 +8,39 @@
 		content: $bi-agriculture-solid;
 	}
 }
+.bi-alternate-email-solid {
+	&:before {
+		content: $bi-alternate-email-solid;
+	}
+}
+.bi-arrow-back-solid {
+	&:before {
+		content: $bi-arrow-back-solid;
+	}
+}
 .bi-arrow-circle-right-solid {
 	&:before {
 		content: $bi-arrow-circle-right-solid;
+	}
+}
+.bi-arrow-forward-solid {
+	&:before {
+		content: $bi-arrow-forward-solid;
+	}
+}
+.bi-arrow-north-east-solid {
+	&:before {
+		content: $bi-arrow-north-east-solid;
+	}
+}
+.bi-arrow-north-solid {
+	&:before {
+		content: $bi-arrow-north-solid;
+	}
+}
+.bi-arrow-north-weast-solid {
+	&:before {
+		content: $bi-arrow-north-weast-solid;
 	}
 }
 .bi-arrow-selector-tool-solid {
@@ -18,9 +48,29 @@
 		content: $bi-arrow-selector-tool-solid;
 	}
 }
+.bi-arrow-south-solid {
+	&:before {
+		content: $bi-arrow-south-solid;
+	}
+}
+.bi-article-solid {
+	&:before {
+		content: $bi-article-solid;
+	}
+}
+.bi-assignment-solid {
+	&:before {
+		content: $bi-assignment-solid;
+	}
+}
 .bi-autorenew-solid {
 	&:before {
 		content: $bi-autorenew-solid;
+	}
+}
+.bi-bank-solid {
+	&:before {
+		content: $bi-bank-solid;
 	}
 }
 .bi-bevipentagono-solid {
@@ -43,6 +93,11 @@
 		content: $bi-bolt-solid;
 	}
 }
+.bi-bookmark-solid {
+	&:before {
+		content: $bi-bookmark-solid;
+	}
+}
 .bi-book-solid {
 	&:before {
 		content: $bi-book-solid;
@@ -63,6 +118,46 @@
 		content: $bi-chart-line-up-solid;
 	}
 }
+.bi-chat-solid {
+	&:before {
+		content: $bi-chat-solid;
+	}
+}
+.bi-check-circle-solid {
+	&:before {
+		content: $bi-check-circle-solid;
+	}
+}
+.bi-chevron-back-soilid {
+	&:before {
+		content: $bi-chevron-back-soilid;
+	}
+}
+.bi-chevron-down-solid {
+	&:before {
+		content: $bi-chevron-down-solid;
+	}
+}
+.bi-chevron-forward-soilid {
+	&:before {
+		content: $bi-chevron-forward-soilid;
+	}
+}
+.bi-chevron-left-solid {
+	&:before {
+		content: $bi-chevron-left-solid;
+	}
+}
+.bi-chevron-right-solid {
+	&:before {
+		content: $bi-chevron-right-solid;
+	}
+}
+.bi-chevron-up-solid {
+	&:before {
+		content: $bi-chevron-up-solid;
+	}
+}
 .bi-cloud-solid {
 	&:before {
 		content: $bi-cloud-solid;
@@ -71,6 +166,26 @@
 .bi-construction-solid {
 	&:before {
 		content: $bi-construction-solid;
+	}
+}
+.bi-contact-mail-solid {
+	&:before {
+		content: $bi-contact-mail-solid;
+	}
+}
+.bi-contact-phone-solid {
+	&:before {
+		content: $bi-contact-phone-solid;
+	}
+}
+.bi-contact-support-solid {
+	&:before {
+		content: $bi-contact-support-solid;
+	}
+}
+.bi-corporate-solid {
+	&:before {
+		content: $bi-corporate-solid;
 	}
 }
 .bi-credit-card-solid {
@@ -83,6 +198,11 @@
 		content: $bi-cube-solid;
 	}
 }
+.bi-description-solid {
+	&:before {
+		content: $bi-description-solid;
+	}
+}
 .bi-directions-car-solid {
 	&:before {
 		content: $bi-directions-car-solid;
@@ -93,9 +213,24 @@
 		content: $bi-door-open-solid;
 	}
 }
+.bi-draft-solid {
+	&:before {
+		content: $bi-draft-solid;
+	}
+}
+.bi-drafts-solid {
+	&:before {
+		content: $bi-drafts-solid;
+	}
+}
 .bi-eco-solid {
 	&:before {
 		content: $bi-eco-solid;
+	}
+}
+.bi-email-content-solid {
+	&:before {
+		content: $bi-email-content-solid;
 	}
 }
 .bi-emergency-home-solid {
@@ -108,14 +243,29 @@
 		content: $bi-event-solid;
 	}
 }
+.bi-facebook-solid {
+	&:before {
+		content: $bi-facebook-solid;
+	}
+}
 .bi-face-retouching-natural-solid {
 	&:before {
 		content: $bi-face-retouching-natural-solid;
 	}
 }
+.bi-fact-check-solid {
+	&:before {
+		content: $bi-fact-check-solid;
+	}
+}
 .bi-falabevi-solid {
 	&:before {
 		content: $bi-falabevi-solid;
+	}
+}
+.bi-feed-solid {
+	&:before {
+		content: $bi-feed-solid;
 	}
 }
 .bi-fgts-solid {
@@ -163,6 +313,16 @@
 		content: $bi-heart-solid;
 	}
 }
+.bi-help-center-solid {
+	&:before {
+		content: $bi-help-center-solid;
+	}
+}
+.bi-help-solid {
+	&:before {
+		content: $bi-help-solid;
+	}
+}
 .bi-home-solid {
 	&:before {
 		content: $bi-home-solid;
@@ -171,6 +331,16 @@
 .bi-house-car-solid {
 	&:before {
 		content: $bi-house-car-solid;
+	}
+}
+.bi-import-contacts-solid {
+	&:before {
+		content: $bi-import-contacts-solid;
+	}
+}
+.bi-instagram-solid {
+	&:before {
+		content: $bi-instagram-solid;
 	}
 }
 .bi-key-solid {
@@ -183,9 +353,24 @@
 		content: $bi-label-solid;
 	}
 }
+.bi-launch-solid {
+	&:before {
+		content: $bi-launch-solid;
+	}
+}
 .bi-lightbulb-solid {
 	&:before {
 		content: $bi-lightbulb-solid;
+	}
+}
+.bi-linkedin-solid {
+	&:before {
+		content: $bi-linkedin-solid;
+	}
+}
+.bi-list-alt-solid {
+	&:before {
+		content: $bi-list-alt-solid;
 	}
 }
 .bi-local-shipping-solid {
@@ -193,9 +378,34 @@
 		content: $bi-local-shipping-solid;
 	}
 }
+.bi-lock-person-solid {
+	&:before {
+		content: $bi-lock-person-solid;
+	}
+}
+.bi-lock-solid {
+	&:before {
+		content: $bi-lock-solid;
+	}
+}
 .bi-luggage-solid {
 	&:before {
 		content: $bi-luggage-solid;
+	}
+}
+.bi-mail-solid {
+	&:before {
+		content: $bi-mail-solid;
+	}
+}
+.bi-mark-as-unread-solid {
+	&:before {
+		content: $bi-mark-as-unread-solid;
+	}
+}
+.bi-medal-honor-solid {
+	&:before {
+		content: $bi-medal-honor-solid;
 	}
 }
 .bi-medal-solid {
@@ -208,6 +418,16 @@
 		content: $bi-money-solid;
 	}
 }
+.bi-mood-solid {
+	&:before {
+		content: $bi-mood-solid;
+	}
+}
+.bi-perm-phone-msg-solid {
+	&:before {
+		content: $bi-perm-phone-msg-solid;
+	}
+}
 .bi-person-remove-solid {
 	&:before {
 		content: $bi-person-remove-solid;
@@ -218,14 +438,34 @@
 		content: $bi-person-solid;
 	}
 }
+.bi-phone-in-talk-solid {
+	&:before {
+		content: $bi-phone-in-talk-solid;
+	}
+}
+.bi-pie-chart-solid {
+	&:before {
+		content: $bi-pie-chart-solid;
+	}
+}
 .bi-place-solid {
 	&:before {
 		content: $bi-place-solid;
 	}
 }
+.bi-query-stats-solid {
+	&:before {
+		content: $bi-query-stats-solid;
+	}
+}
 .bi-question-answer-solid {
 	&:before {
 		content: $bi-question-answer-solid;
+	}
+}
+.bi-quiz-solid {
+	&:before {
+		content: $bi-quiz-solid;
 	}
 }
 .bi-sack-money-solid {
@@ -238,9 +478,39 @@
 		content: $bi-saving-pigs-solid;
 	}
 }
+.bi-school-solid {
+	&:before {
+		content: $bi-school-solid;
+	}
+}
 .bi-search-solid {
 	&:before {
 		content: $bi-search-solid;
+	}
+}
+.bi-sentiment-dissatisfied-solid {
+	&:before {
+		content: $bi-sentiment-dissatisfied-solid;
+	}
+}
+.bi-sentiment-satisfied-solid {
+	&:before {
+		content: $bi-sentiment-satisfied-solid;
+	}
+}
+.bi-sentiment-very-satisfied-solid {
+	&:before {
+		content: $bi-sentiment-very-satisfied-solid;
+	}
+}
+.bi-settings-solid {
+	&:before {
+		content: $bi-settings-solid;
+	}
+}
+.bi-shield-with-house-solid {
+	&:before {
+		content: $bi-shield-with-house-solid;
 	}
 }
 .bi-smart-display-solid {
@@ -263,6 +533,21 @@
 		content: $bi-solar-panel-solid;
 	}
 }
+.bi-speaker-notes-solid {
+	&:before {
+		content: $bi-speaker-notes-solid;
+	}
+}
+.bi-speed-solid {
+	&:before {
+		content: $bi-speed-solid;
+	}
+}
+.bi-sports-motorsports-solid {
+	&:before {
+		content: $bi-sports-motorsports-solid;
+	}
+}
 .bi-swipe-right-solid {
 	&:before {
 		content: $bi-swipe-right-solid;
@@ -271,6 +556,16 @@
 .bi-target-solid {
 	&:before {
 		content: $bi-target-solid;
+	}
+}
+.bi-thumb-up-solid {
+	&:before {
+		content: $bi-thumb-up-solid;
+	}
+}
+.bi-trophy-solid {
+	&:before {
+		content: $bi-trophy-solid;
 	}
 }
 .bi-verified-solid {
@@ -296,5 +591,10 @@
 .bi-work-solid {
 	&:before {
 		content: $bi-work-solid;
+	}
+}
+.bi-youtube-solid {
+	&:before {
+		content: $bi-youtube-solid;
 	}
 }
