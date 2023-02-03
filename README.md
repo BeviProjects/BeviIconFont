@@ -1,57 +1,56 @@
 <h1 align="center">Bevi Icon Font</h1>
 
-<h3>Uma biblioteca de ícones Bevi</h3>
+<h3 align="center">Uma biblioteca de ícones Bevi</h3>
 
 <br />
 <br />
+<br />
+<br />
 
-## Summary
-
-- [Começe a usar](#comece-a-usar)
-- [Como utilizar](#como-utilizar)
+## Como começar
 
 <br />
 
-## Comece a usar
-
-### CDN
-
-### Última versão:
+### CDN Versão Estável:
 
 ```bash
-https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@latest/dist/compressed/main.css
+https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.1/dist/compressed/main.css
 ```
 
-### Versão 1.0:
+<br />
 
-```bash
-https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@1b503a1/dist/compressed/main.css
-```
-
-### Link HTML:
+### Link HTML
 
 ```html
 <link
 	rel="stylesheet"
-	href="https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@latest/dist/compressed/main.css"
+	href="https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.1/dist/compressed/main.css"
 />
 ```
 
-<br />
+<br/>
+
+### Link CSS
+
+```css
+@import url('https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.1/dist/compressed/main.css');
+```
+
+<br/>
+<br/>
 
 ## Como utilizar
 
-<p>Esta bilbioteca está preparada com clases aplicadas em elementos em elemento i de html</p>
+Esta bilbioteca está preparada com clases aplicadas em elementos em elemento i de html
 
 ```html
 <i class="bi-blocks-solid"></i>
 ```
 
 <br/>
-<p>Lembre-se da utilização do prefixo <b>bi-</b> para itentificar que é um <b>Icone Bevi</b></p> 
-<p>Junto com o sufixo <b>-solid</b> para determinar qual variação do ícone que está utilizando</p>
-
-<br />
-<br />
+<br/>
+<br/>
 
 ---
+
+<i>Version 1.1</i>
