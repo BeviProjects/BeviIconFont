@@ -23,8 +23,8 @@ https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.0/dist/compressed/main.
 
 ```html
 <link
-	rel="stylesheet"
-	href="https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.0/dist/compressed/main.css"
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.0/dist/compressed/main.css"
 />
 ```
 
