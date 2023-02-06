@@ -14,7 +14,7 @@
 ### CDN Versão Estável:
 
 ```bash
-https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.1/dist/compressed/main.css
+https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.0/dist/compressed/main.css
 ```
 
 <br />
@@ -24,7 +24,7 @@ https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.1/dist/compressed/main.
 ```html
 <link
 	rel="stylesheet"
-	href="https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.1/dist/compressed/main.css"
+	href="https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.0/dist/compressed/main.css"
 />
 ```
 
@@ -33,7 +33,7 @@ https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.1/dist/compressed/main.
 ### Link CSS
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.1/dist/compressed/main.css');
+@import url('https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.0/dist/compressed/main.css');
 ```
 
 <br/>
