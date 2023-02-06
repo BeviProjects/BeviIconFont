@@ -53,4 +53,4 @@ Esta bilbioteca está preparada com clases aplicadas em elementos em elemento i 
 
 ---
 
-<i>Version 1.1</i>
+<i>Version 1.0</i>
