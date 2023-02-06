@@ -28,234 +28,474 @@ i {
   content: "\e901";
 }
 
-.bi-arrow-circle-right-solid:before {
+.bi-alternate-email-solid:before {
   content: "\e902";
 }
 
-.bi-arrow-selector-tool-solid:before {
+.bi-arrow-back-solid:before {
   content: "\e903";
 }
 
-.bi-autorenew-solid:before {
+.bi-arrow-circle-right-solid:before {
   content: "\e904";
 }
 
-.bi-bevipentagono-solid:before {
+.bi-arrow-forward-solid:before {
   content: "\e905";
 }
 
-.bi-beviprotege-solid:before {
+.bi-arrow-north-east-solid:before {
   content: "\e906";
 }
 
-.bi-blocks-solid:before {
+.bi-arrow-north-solid:before {
   content: "\e907";
 }
 
-.bi-bolt-solid:before {
+.bi-arrow-north-weast-solid:before {
   content: "\e908";
 }
 
-.bi-book-solid:before {
+.bi-arrow-selector-tool-solid:before {
   content: "\e909";
 }
 
-.bi-campaign-solid:before {
+.bi-arrow-south-solid:before {
   content: "\e90a";
 }
 
-.bi-chalkboard-user-solid:before {
+.bi-article-solid:before {
   content: "\e90b";
 }
 
-.bi-chart-line-up-solid:before {
+.bi-assignment-solid:before {
   content: "\e90c";
 }
 
-.bi-cloud-solid:before {
+.bi-autorenew-solid:before {
   content: "\e90d";
 }
 
-.bi-construction-solid:before {
+.bi-bank-solid:before {
   content: "\e90e";
 }
 
-.bi-credit-card-solid:before {
+.bi-bevipentagono-solid:before {
   content: "\e90f";
 }
 
-.bi-cube-solid:before {
+.bi-beviprotege-solid:before {
   content: "\e910";
 }
 
-.bi-directions-car-solid:before {
+.bi-blocks-solid:before {
   content: "\e911";
 }
 
-.bi-door-open-solid:before {
+.bi-bolt-solid:before {
   content: "\e912";
 }
 
-.bi-eco-solid:before {
+.bi-bookmark-solid:before {
   content: "\e913";
 }
 
-.bi-emergency-home-solid:before {
+.bi-book-solid:before {
   content: "\e914";
 }
 
-.bi-event-solid:before {
+.bi-campaign-solid:before {
   content: "\e915";
 }
 
-.bi-face-retouching-natural-solid:before {
+.bi-chalkboard-user-solid:before {
   content: "\e916";
 }
 
-.bi-falabevi-solid:before {
+.bi-chart-line-up-solid:before {
   content: "\e917";
 }
 
-.bi-fgts-solid:before {
+.bi-chat-solid:before {
   content: "\e918";
 }
 
-.bi-groups-solid:before {
+.bi-check-circle-solid:before {
   content: "\e919";
 }
 
-.bi-hand-archive-solid:before {
+.bi-chevron-back-soilid:before {
   content: "\e91a";
 }
 
-.bi-hand-credit-card-solid:before {
+.bi-chevron-down-solid:before {
   content: "\e91b";
 }
 
-.bi-hand-house-solid:before {
+.bi-chevron-forward-soilid:before {
   content: "\e91c";
 }
 
-.bi-hand-money-solid:before {
+.bi-chevron-left-solid:before {
   content: "\e91d";
 }
 
-.bi-handshake-business-solid:before {
+.bi-chevron-right-solid:before {
   content: "\e91e";
 }
 
-.bi-headset-mic-solid:before {
+.bi-chevron-up-solid:before {
   content: "\e91f";
 }
 
-.bi-heart-solid:before {
+.bi-cloud-solid:before {
   content: "\e920";
 }
 
-.bi-home-solid:before {
+.bi-construction-solid:before {
   content: "\e921";
 }
 
-.bi-house-car-solid:before {
+.bi-contact-mail-solid:before {
   content: "\e922";
 }
 
-.bi-key-solid:before {
+.bi-contact-phone-solid:before {
   content: "\e923";
 }
 
-.bi-label-solid:before {
+.bi-contact-support-solid:before {
   content: "\e924";
 }
 
-.bi-lightbulb-solid:before {
+.bi-corporate-solid:before {
   content: "\e925";
 }
 
-.bi-local-shipping-solid:before {
+.bi-credit-card-solid:before {
   content: "\e926";
 }
 
-.bi-luggage-solid:before {
+.bi-cube-solid:before {
   content: "\e927";
 }
 
-.bi-medal-solid:before {
+.bi-description-solid:before {
   content: "\e928";
 }
 
-.bi-money-solid:before {
+.bi-directions-car-solid:before {
   content: "\e929";
 }
 
-.bi-person-remove-solid:before {
+.bi-door-open-solid:before {
   content: "\e92a";
 }
 
-.bi-person-solid:before {
+.bi-draft-solid:before {
   content: "\e92b";
 }
 
-.bi-place-solid:before {
+.bi-drafts-solid:before {
   content: "\e92c";
 }
 
-.bi-question-answer-solid:before {
+.bi-eco-solid:before {
   content: "\e92d";
 }
 
-.bi-sack-money-solid:before {
+.bi-email-content-solid:before {
   content: "\e92e";
 }
 
-.bi-saving-pigs-solid:before {
+.bi-emergency-home-solid:before {
   content: "\e92f";
 }
 
-.bi-search-solid:before {
+.bi-event-solid:before {
   content: "\e930";
 }
 
-.bi-smart-display-solid:before {
+.bi-facebook-solid:before {
   content: "\e931";
 }
 
-.bi-smartphone-solid:before {
+.bi-face-retouching-natural-solid:before {
   content: "\e932";
 }
 
-.bi-snap-solid:before {
+.bi-fact-check-solid:before {
   content: "\e933";
 }
 
-.bi-solar-panel-solid:before {
+.bi-falabevi-solid:before {
   content: "\e934";
 }
 
-.bi-swipe-right-solid:before {
+.bi-feed-solid:before {
   content: "\e935";
 }
 
-.bi-target-solid:before {
+.bi-fgts-solid:before {
   content: "\e936";
 }
 
-.bi-verified-solid:before {
+.bi-groups-solid:before {
   content: "\e937";
 }
 
-.bi-warning-solid:before {
+.bi-hand-archive-solid:before {
   content: "\e938";
 }
 
-.bi-watch-later-solid:before {
+.bi-hand-credit-card-solid:before {
   content: "\e939";
 }
 
-.bi-wifi-solid:before {
+.bi-hand-house-solid:before {
   content: "\e93a";
 }
 
-.bi-work-solid:before {
+.bi-hand-money-solid:before {
   content: "\e93b";
+}
+
+.bi-handshake-business-solid:before {
+  content: "\e93c";
+}
+
+.bi-headset-mic-solid:before {
+  content: "\e93d";
+}
+
+.bi-heart-solid:before {
+  content: "\e93e";
+}
+
+.bi-help-center-solid:before {
+  content: "\e93f";
+}
+
+.bi-help-solid:before {
+  content: "\e940";
+}
+
+.bi-home-solid:before {
+  content: "\e941";
+}
+
+.bi-house-car-solid:before {
+  content: "\e942";
+}
+
+.bi-import-contacts-solid:before {
+  content: "\e943";
+}
+
+.bi-instagram-solid:before {
+  content: "\e944";
+}
+
+.bi-key-solid:before {
+  content: "\e945";
+}
+
+.bi-label-solid:before {
+  content: "\e946";
+}
+
+.bi-launch-solid:before {
+  content: "\e947";
+}
+
+.bi-lightbulb-solid:before {
+  content: "\e948";
+}
+
+.bi-linkedin-solid:before {
+  content: "\e949";
+}
+
+.bi-list-alt-solid:before {
+  content: "\e94a";
+}
+
+.bi-local-shipping-solid:before {
+  content: "\e94b";
+}
+
+.bi-lock-person-solid:before {
+  content: "\e94c";
+}
+
+.bi-lock-solid:before {
+  content: "\e94d";
+}
+
+.bi-luggage-solid:before {
+  content: "\e94e";
+}
+
+.bi-mail-solid:before {
+  content: "\e94f";
+}
+
+.bi-mark-as-unread-solid:before {
+  content: "\e950";
+}
+
+.bi-medal-honor-solid:before {
+  content: "\e951";
+}
+
+.bi-medal-solid:before {
+  content: "\e952";
+}
+
+.bi-money-solid:before {
+  content: "\e953";
+}
+
+.bi-mood-solid:before {
+  content: "\e954";
+}
+
+.bi-perm-phone-msg-solid:before {
+  content: "\e955";
+}
+
+.bi-person-remove-solid:before {
+  content: "\e956";
+}
+
+.bi-person-solid:before {
+  content: "\e957";
+}
+
+.bi-phone-in-talk-solid:before {
+  content: "\e958";
+}
+
+.bi-pie-chart-solid:before {
+  content: "\e959";
+}
+
+.bi-place-solid:before {
+  content: "\e95a";
+}
+
+.bi-query-stats-solid:before {
+  content: "\e95b";
+}
+
+.bi-question-answer-solid:before {
+  content: "\e95c";
+}
+
+.bi-quiz-solid:before {
+  content: "\e95d";
+}
+
+.bi-sack-money-solid:before {
+  content: "\e95e";
+}
+
+.bi-saving-pigs-solid:before {
+  content: "\e95f";
+}
+
+.bi-school-solid:before {
+  content: "\e960";
+}
+
+.bi-search-solid:before {
+  content: "\e961";
+}
+
+.bi-sentiment-dissatisfied-solid:before {
+  content: "\e962";
+}
+
+.bi-sentiment-satisfied-solid:before {
+  content: "\e963";
+}
+
+.bi-sentiment-very-satisfied-solid:before {
+  content: "\e964";
+}
+
+.bi-settings-solid:before {
+  content: "\e965";
+}
+
+.bi-shield-with-house-solid:before {
+  content: "\e966";
+}
+
+.bi-smart-display-solid:before {
+  content: "\e967";
+}
+
+.bi-smartphone-solid:before {
+  content: "\e968";
+}
+
+.bi-snap-solid:before {
+  content: "\e969";
+}
+
+.bi-solar-panel-solid:before {
+  content: "\e96a";
+}
+
+.bi-speaker-notes-solid:before {
+  content: "\e96b";
+}
+
+.bi-speed-solid:before {
+  content: "\e96c";
+}
+
+.bi-sports-motorsports-solid:before {
+  content: "\e96d";
+}
+
+.bi-swipe-right-solid:before {
+  content: "\e96e";
+}
+
+.bi-target-solid:before {
+  content: "\e96f";
+}
+
+.bi-thumb-up-solid:before {
+  content: "\e970";
+}
+
+.bi-trophy-solid:before {
+  content: "\e971";
+}
+
+.bi-verified-solid:before {
+  content: "\e972";
+}
+
+.bi-warning-solid:before {
+  content: "\e973";
+}
+
+.bi-watch-later-solid:before {
+  content: "\e974";
+}
+
+.bi-wifi-solid:before {
+  content: "\e975";
+}
+
+.bi-work-solid:before {
+  content: "\e976";
+}
+
+.bi-youtube-solid:before {
+  content: "\e977";
 }
