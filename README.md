@@ -14,7 +14,7 @@
 ### CDN Versão Estável:
 
 ```bash
-https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.0.0/dist/compressed/main.css
+https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.0.1/dist/compressed/main.css
 ```
 
 <br />
@@ -32,7 +32,7 @@ https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont/dist/compressed/main.css
 ```html
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.0.0/dist/compressed/main.css"
+  href="https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.0.1/dist/compressed/main.css"
 />
 ```
 
@@ -41,7 +41,7 @@ https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont/dist/compressed/main.css
 ### Link CSS
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.0.0/dist/compressed/main.css');
+@import url('https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.0.1/dist/compressed/main.css');
 ```
 
 <br/>
@@ -61,4 +61,4 @@ Esta bilbioteca está preparada com clases aplicadas em elementos em elemento i 
 
 ---
 
-<i>Version 1.0.0</i>
+<i>Version 1.0.1</i>
