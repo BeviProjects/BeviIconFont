@@ -1,22 +1,33 @@
 @font-face {
-	font-family: '#{$icomoon-font-family}';
-	src: url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?8s4krj');
-	src: url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?8s4krj#iefix')
+	font-family: '#{$font-family}';
+	src: url('#{$font-path}/#{$font-family}.eot?8s4krj');
+	src: url('#{$font-path}/#{$font-family}.eot?8s4krj#iefix')
 			format('embedded-opentype'),
-		url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?8s4krj')
-			format('truetype'),
-		url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?8s4krj')
-			format('woff'),
-		url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?8s4krj##{$icomoon-font-family}')
-			format('svg');
+		url('#{$font-path}/#{$font-family}.ttf?8s4krj') format('truetype'),
+		url('#{$font-path}/#{$font-family}.woff?8s4krj') format('woff'),
+		url('#{$font-path}/#{$font-family}.svg?8s4krj##{$font-family}') format('svg');
 	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+}
+
+@font-face {
+	font-family: '#{$font-family}';
+	src: url('#{$font-path-bold}/#{$font-family}.eot?8s4krj');
+	src: url('#{$font-path-bold}/#{$font-family}.eot?8s4krj#iefix')
+			format('embedded-opentype'),
+		url('#{$font-path-bold}/#{$font-family}.ttf?8s4krj') format('truetype'),
+		url('#{$font-path-bold}/#{$font-family}.woff?8s4krj') format('woff'),
+		url('#{$font-path-bold}/#{$font-family}.svg?8s4krj##{$font-family}')
+			format('svg');
+	font-weight: bold;
 	font-style: normal;
 	font-display: block;
 }
 
 i {
 	/* use !important to prevent issues with browser extensions that change fonts */
-	font-family: '#{$icomoon-font-family}' !important;
+	font-family: '#{$font-family}' !important;
 	speak: never;
 	font-style: normal;
 	font-weight: normal;
