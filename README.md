@@ -14,7 +14,7 @@
 ### CDN Versão Estável:
 
 ```bash
-https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.0.1/dist/compressed/main.css
+https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.1.0/dist/compressed/main.css
 ```
 
 <br />
@@ -31,8 +31,8 @@ https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont/dist/compressed/main.css
 
 ```html
 <link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.0.1/dist/compressed/main.css"
+	rel="stylesheet"
+	href="https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.1.0/dist/compressed/main.css"
 />
 ```
 
@@ -41,7 +41,7 @@ https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont/dist/compressed/main.css
 ### Link CSS
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.0.1/dist/compressed/main.css');
+@import url('https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont@v1.1.0/dist/compressed/main.css');
 ```
 
 <br/>
@@ -52,13 +52,25 @@ https://cdn.jsdelivr.net/gh/BeviProjects/BeviIconFont/dist/compressed/main.css
 Esta bilbioteca está preparada com clases aplicadas em elementos em elemento i de html
 
 ```html
-<i class="bi-blocks-solid"></i>
+<i class="bv-blocks-solid"></i>
+```
+
+<br/>
+
+### Ícones com peso diferente
+
+Em alguns ícones é possível controlar o peso de fonte, normalmente em ícones se setas ou sinalização simples
+
+```css
+.font-weight-bold {
+	font-weight: 600;
+}
+```
+
+```html
+<i class="bv-arrow-forward-solid font-weight-bold"></i>
 ```
 
 <br/>
 <br/>
 <br/>
-
----
-
-<i>Version 1.0.1</i>
