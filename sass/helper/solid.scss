@@ -1,600 +1,625 @@
-.bi-account-box-solid {
+.bv-account-box-solid {
 	&:before {
-		content: $bi-account-box-solid;
+		content: $bv-account-box-solid;
 	}
 }
-.bi-agriculture-solid {
+.bv-agriculture-solid {
 	&:before {
-		content: $bi-agriculture-solid;
+		content: $bv-agriculture-solid;
 	}
 }
-.bi-alternate-email-solid {
+.bv-alternate-email-solid {
 	&:before {
-		content: $bi-alternate-email-solid;
+		content: $bv-alternate-email-solid;
 	}
 }
-.bi-arrow-back-solid {
+.bv-arrow-circle-right-solid {
 	&:before {
-		content: $bi-arrow-back-solid;
+		content: $bv-arrow-circle-right-solid;
 	}
 }
-.bi-arrow-circle-right-solid {
+.bv-arrow-selector-tool-solid {
 	&:before {
-		content: $bi-arrow-circle-right-solid;
+		content: $bv-arrow-selector-tool-solid;
 	}
 }
-.bi-arrow-forward-solid {
+.bv-article-solid {
 	&:before {
-		content: $bi-arrow-forward-solid;
+		content: $bv-article-solid;
 	}
 }
-.bi-arrow-north-east-solid {
+.bv-assignment-solid {
 	&:before {
-		content: $bi-arrow-north-east-solid;
+		content: $bv-assignment-solid;
 	}
 }
-.bi-arrow-north-solid {
+.bv-autorenew-solid {
 	&:before {
-		content: $bi-arrow-north-solid;
+		content: $bv-autorenew-solid;
 	}
 }
-.bi-arrow-north-weast-solid {
+.bv-bank-solid {
 	&:before {
-		content: $bi-arrow-north-weast-solid;
+		content: $bv-bank-solid;
 	}
 }
-.bi-arrow-selector-tool-solid {
+.bv-bevipentagono-solid {
 	&:before {
-		content: $bi-arrow-selector-tool-solid;
+		content: $bv-bevipentagono-solid;
 	}
 }
-.bi-arrow-south-solid {
+.bv-beviprotege-solid {
 	&:before {
-		content: $bi-arrow-south-solid;
+		content: $bv-beviprotege-solid;
 	}
 }
-.bi-article-solid {
+.bv-blocks-solid {
 	&:before {
-		content: $bi-article-solid;
+		content: $bv-blocks-solid;
 	}
 }
-.bi-assignment-solid {
+.bv-bolt-solid {
 	&:before {
-		content: $bi-assignment-solid;
+		content: $bv-bolt-solid;
 	}
 }
-.bi-autorenew-solid {
+.bv-book-solid {
 	&:before {
-		content: $bi-autorenew-solid;
+		content: $bv-book-solid;
 	}
 }
-.bi-bank-solid {
+.bv-bookmark-solid {
 	&:before {
-		content: $bi-bank-solid;
+		content: $bv-bookmark-solid;
 	}
 }
-.bi-bevipentagono-solid {
+.bv-campaign-solid {
 	&:before {
-		content: $bi-bevipentagono-solid;
+		content: $bv-campaign-solid;
 	}
 }
-.bi-beviprotege-solid {
+.bv-chalkboard-user-solid {
 	&:before {
-		content: $bi-beviprotege-solid;
+		content: $bv-chalkboard-user-solid;
 	}
 }
-.bi-blocks-solid {
+.bv-chart-line-up-solid {
 	&:before {
-		content: $bi-blocks-solid;
+		content: $bv-chart-line-up-solid;
 	}
 }
-.bi-bolt-solid {
+.bv-chat-solid {
 	&:before {
-		content: $bi-bolt-solid;
+		content: $bv-chat-solid;
 	}
 }
-.bi-bookmark-solid {
+.bv-check-circle-solid {
 	&:before {
-		content: $bi-bookmark-solid;
+		content: $bv-check-circle-solid;
 	}
 }
-.bi-book-solid {
+.bv-cloud-solid {
 	&:before {
-		content: $bi-book-solid;
+		content: $bv-cloud-solid;
 	}
 }
-.bi-campaign-solid {
+.bv-construction-solid {
 	&:before {
-		content: $bi-campaign-solid;
+		content: $bv-construction-solid;
 	}
 }
-.bi-chalkboard-user-solid {
+.bv-contact-mail-solid {
 	&:before {
-		content: $bi-chalkboard-user-solid;
+		content: $bv-contact-mail-solid;
 	}
 }
-.bi-chart-line-up-solid {
+.bv-contact-phone-solid {
 	&:before {
-		content: $bi-chart-line-up-solid;
+		content: $bv-contact-phone-solid;
 	}
 }
-.bi-chat-solid {
+.bv-contact-support-solid {
 	&:before {
-		content: $bi-chat-solid;
+		content: $bv-contact-support-solid;
 	}
 }
-.bi-check-circle-solid {
+.bv-corporate-solid {
 	&:before {
-		content: $bi-check-circle-solid;
+		content: $bv-corporate-solid;
 	}
 }
-.bi-chevron-back-solid {
+.bv-credit-card-solid {
 	&:before {
-		content: $bi-chevron-back-solid;
+		content: $bv-credit-card-solid;
 	}
 }
-.bi-chevron-down-solid {
+.bv-cube-solid {
 	&:before {
-		content: $bi-chevron-down-solid;
+		content: $bv-cube-solid;
 	}
 }
-.bi-chevron-forward-solid {
+.bv-description-solid {
 	&:before {
-		content: $bi-chevron-forward-solid;
+		content: $bv-description-solid;
 	}
 }
-.bi-chevron-left-solid {
+.bv-directions-car-solid {
 	&:before {
-		content: $bi-chevron-left-solid;
+		content: $bv-directions-car-solid;
 	}
 }
-.bi-chevron-right-solid {
+.bv-door-open-solid {
 	&:before {
-		content: $bi-chevron-right-solid;
+		content: $bv-door-open-solid;
 	}
 }
-.bi-chevron-up-solid {
+.bv-draft-solid {
 	&:before {
-		content: $bi-chevron-up-solid;
+		content: $bv-draft-solid;
 	}
 }
-.bi-cloud-solid {
+.bv-drafts-solid {
 	&:before {
-		content: $bi-cloud-solid;
+		content: $bv-drafts-solid;
 	}
 }
-.bi-construction-solid {
+.bv-eco-solid {
 	&:before {
-		content: $bi-construction-solid;
+		content: $bv-eco-solid;
 	}
 }
-.bi-contact-mail-solid {
+.bv-email-content-solid {
 	&:before {
-		content: $bi-contact-mail-solid;
+		content: $bv-email-content-solid;
 	}
 }
-.bi-contact-phone-solid {
+.bv-emergency-home-solid {
 	&:before {
-		content: $bi-contact-phone-solid;
+		content: $bv-emergency-home-solid;
 	}
 }
-.bi-contact-support-solid {
+.bv-event-solid {
 	&:before {
-		content: $bi-contact-support-solid;
+		content: $bv-event-solid;
 	}
 }
-.bi-corporate-solid {
+.bv-face-retouching-natural-solid {
 	&:before {
-		content: $bi-corporate-solid;
+		content: $bv-face-retouching-natural-solid;
 	}
 }
-.bi-credit-card-solid {
+.bv-facebook-solid {
 	&:before {
-		content: $bi-credit-card-solid;
+		content: $bv-facebook-solid;
 	}
 }
-.bi-cube-solid {
+.bv-fact-check-solid {
 	&:before {
-		content: $bi-cube-solid;
+		content: $bv-fact-check-solid;
 	}
 }
-.bi-description-solid {
+.bv-falabevi-solid {
 	&:before {
-		content: $bi-description-solid;
+		content: $bv-falabevi-solid;
 	}
 }
-.bi-directions-car-solid {
+.bv-feed-solid {
 	&:before {
-		content: $bi-directions-car-solid;
+		content: $bv-feed-solid;
 	}
 }
-.bi-door-open-solid {
+.bv-fgts-solid {
 	&:before {
-		content: $bi-door-open-solid;
+		content: $bv-fgts-solid;
 	}
 }
-.bi-draft-solid {
+.bv-groups-solid {
 	&:before {
-		content: $bi-draft-solid;
+		content: $bv-groups-solid;
 	}
 }
-.bi-drafts-solid {
+.bv-hand-archive-solid {
 	&:before {
-		content: $bi-drafts-solid;
+		content: $bv-hand-archive-solid;
 	}
 }
-.bi-eco-solid {
+.bv-hand-credit-card-solid {
 	&:before {
-		content: $bi-eco-solid;
+		content: $bv-hand-credit-card-solid;
 	}
 }
-.bi-email-content-solid {
+.bv-hand-house-solid {
 	&:before {
-		content: $bi-email-content-solid;
+		content: $bv-hand-house-solid;
 	}
 }
-.bi-emergency-home-solid {
+.bv-hand-money-solid {
 	&:before {
-		content: $bi-emergency-home-solid;
+		content: $bv-hand-money-solid;
 	}
 }
-.bi-event-solid {
+.bv-handshake-business-solid {
 	&:before {
-		content: $bi-event-solid;
+		content: $bv-handshake-business-solid;
 	}
 }
-.bi-facebook-solid {
+.bv-headset-mic-solid {
 	&:before {
-		content: $bi-facebook-solid;
+		content: $bv-headset-mic-solid;
 	}
 }
-.bi-face-retouching-natural-solid {
+.bv-heart-solid {
 	&:before {
-		content: $bi-face-retouching-natural-solid;
+		content: $bv-heart-solid;
 	}
 }
-.bi-fact-check-solid {
+.bv-help-center-solid {
 	&:before {
-		content: $bi-fact-check-solid;
+		content: $bv-help-center-solid;
 	}
 }
-.bi-falabevi-solid {
+.bv-help-solid {
 	&:before {
-		content: $bi-falabevi-solid;
+		content: $bv-help-solid;
 	}
 }
-.bi-feed-solid {
+.bv-home-solid {
 	&:before {
-		content: $bi-feed-solid;
+		content: $bv-home-solid;
 	}
 }
-.bi-fgts-solid {
+.bv-house-car-solid {
 	&:before {
-		content: $bi-fgts-solid;
+		content: $bv-house-car-solid;
 	}
 }
-.bi-groups-solid {
+.bv-import-contacts-solid {
 	&:before {
-		content: $bi-groups-solid;
+		content: $bv-import-contacts-solid;
 	}
 }
-.bi-hand-archive-solid {
+.bv-instagram-solid {
 	&:before {
-		content: $bi-hand-archive-solid;
+		content: $bv-instagram-solid;
 	}
 }
-.bi-hand-credit-card-solid {
+.bv-key-solid {
 	&:before {
-		content: $bi-hand-credit-card-solid;
+		content: $bv-key-solid;
 	}
 }
-.bi-hand-house-solid {
+.bv-label-solid {
 	&:before {
-		content: $bi-hand-house-solid;
+		content: $bv-label-solid;
 	}
 }
-.bi-hand-money-solid {
+.bv-lightbulb-solid {
 	&:before {
-		content: $bi-hand-money-solid;
+		content: $bv-lightbulb-solid;
 	}
 }
-.bi-handshake-business-solid {
+.bv-linkedin-solid {
 	&:before {
-		content: $bi-handshake-business-solid;
+		content: $bv-linkedin-solid;
 	}
 }
-.bi-headset-mic-solid {
+.bv-list-alt-solid {
 	&:before {
-		content: $bi-headset-mic-solid;
+		content: $bv-list-alt-solid;
 	}
 }
-.bi-heart-solid {
+.bv-local-shipping-solid {
 	&:before {
-		content: $bi-heart-solid;
+		content: $bv-local-shipping-solid;
 	}
 }
-.bi-help-center-solid {
+.bv-lock-person-solid {
 	&:before {
-		content: $bi-help-center-solid;
+		content: $bv-lock-person-solid;
 	}
 }
-.bi-help-solid {
+.bv-lock-solid {
 	&:before {
-		content: $bi-help-solid;
+		content: $bv-lock-solid;
 	}
 }
-.bi-home-solid {
+.bv-luggage-solid {
 	&:before {
-		content: $bi-home-solid;
+		content: $bv-luggage-solid;
 	}
 }
-.bi-house-car-solid {
+.bv-mail-solid {
 	&:before {
-		content: $bi-house-car-solid;
+		content: $bv-mail-solid;
 	}
 }
-.bi-import-contacts-solid {
+.bv-mark-as-unread-solid {
 	&:before {
-		content: $bi-import-contacts-solid;
+		content: $bv-mark-as-unread-solid;
 	}
 }
-.bi-instagram-solid {
+.bv-medal-honor-solid {
 	&:before {
-		content: $bi-instagram-solid;
+		content: $bv-medal-honor-solid;
 	}
 }
-.bi-key-solid {
+.bv-medal-solid {
 	&:before {
-		content: $bi-key-solid;
+		content: $bv-medal-solid;
 	}
 }
-.bi-label-solid {
+.bv-money-solid {
 	&:before {
-		content: $bi-label-solid;
+		content: $bv-money-solid;
 	}
 }
-.bi-launch-solid {
+.bv-mood-solid {
 	&:before {
-		content: $bi-launch-solid;
+		content: $bv-mood-solid;
 	}
 }
-.bi-lightbulb-solid {
+.bv-perm-phone-msg-solid {
 	&:before {
-		content: $bi-lightbulb-solid;
+		content: $bv-perm-phone-msg-solid;
 	}
 }
-.bi-linkedin-solid {
+.bv-person-remove-solid {
 	&:before {
-		content: $bi-linkedin-solid;
+		content: $bv-person-remove-solid;
 	}
 }
-.bi-list-alt-solid {
+.bv-person-solid {
 	&:before {
-		content: $bi-list-alt-solid;
+		content: $bv-person-solid;
 	}
 }
-.bi-local-shipping-solid {
+.bv-phone-in-talk-solid {
 	&:before {
-		content: $bi-local-shipping-solid;
+		content: $bv-phone-in-talk-solid;
 	}
 }
-.bi-lock-person-solid {
+.bv-pie-chart-solid {
 	&:before {
-		content: $bi-lock-person-solid;
+		content: $bv-pie-chart-solid;
 	}
 }
-.bi-lock-solid {
+.bv-place-solid {
 	&:before {
-		content: $bi-lock-solid;
+		content: $bv-place-solid;
 	}
 }
-.bi-luggage-solid {
+.bv-query-stats-solid {
 	&:before {
-		content: $bi-luggage-solid;
+		content: $bv-query-stats-solid;
 	}
 }
-.bi-mail-solid {
+.bv-question-answer-solid {
 	&:before {
-		content: $bi-mail-solid;
+		content: $bv-question-answer-solid;
 	}
 }
-.bi-mark-as-unread-solid {
+.bv-quiz-solid {
 	&:before {
-		content: $bi-mark-as-unread-solid;
+		content: $bv-quiz-solid;
 	}
 }
-.bi-medal-honor-solid {
+.bv-sack-money-solid {
 	&:before {
-		content: $bi-medal-honor-solid;
+		content: $bv-sack-money-solid;
 	}
 }
-.bi-medal-solid {
+.bv-saving-pigs-solid {
 	&:before {
-		content: $bi-medal-solid;
+		content: $bv-saving-pigs-solid;
 	}
 }
-.bi-money-solid {
+.bv-school-solid {
 	&:before {
-		content: $bi-money-solid;
+		content: $bv-school-solid;
 	}
 }
-.bi-mood-solid {
+.bv-search-solid {
 	&:before {
-		content: $bi-mood-solid;
+		content: $bv-search-solid;
 	}
 }
-.bi-perm-phone-msg-solid {
+.bv-sentiment-dissatisfied-solid {
 	&:before {
-		content: $bi-perm-phone-msg-solid;
+		content: $bv-sentiment-dissatisfied-solid;
 	}
 }
-.bi-person-remove-solid {
+.bv-sentiment-satisfied-solid {
 	&:before {
-		content: $bi-person-remove-solid;
+		content: $bv-sentiment-satisfied-solid;
 	}
 }
-.bi-person-solid {
+.bv-sentiment-very-satisfied-solid {
 	&:before {
-		content: $bi-person-solid;
+		content: $bv-sentiment-very-satisfied-solid;
 	}
 }
-.bi-phone-in-talk-solid {
+.bv-settings-solid {
 	&:before {
-		content: $bi-phone-in-talk-solid;
+		content: $bv-settings-solid;
 	}
 }
-.bi-pie-chart-solid {
+.bv-shield-with-house-solid {
 	&:before {
-		content: $bi-pie-chart-solid;
+		content: $bv-shield-with-house-solid;
 	}
 }
-.bi-place-solid {
+.bv-smart-display-solid {
 	&:before {
-		content: $bi-place-solid;
+		content: $bv-smart-display-solid;
 	}
 }
-.bi-query-stats-solid {
+.bv-smartphone-solid {
 	&:before {
-		content: $bi-query-stats-solid;
+		content: $bv-smartphone-solid;
 	}
 }
-.bi-question-answer-solid {
+.bv-snap-solid {
 	&:before {
-		content: $bi-question-answer-solid;
+		content: $bv-snap-solid;
 	}
 }
-.bi-quiz-solid {
+.bv-solar-panel-solid {
 	&:before {
-		content: $bi-quiz-solid;
+		content: $bv-solar-panel-solid;
 	}
 }
-.bi-sack-money-solid {
+.bv-speaker-notes-solid {
 	&:before {
-		content: $bi-sack-money-solid;
+		content: $bv-speaker-notes-solid;
 	}
 }
-.bi-saving-pigs-solid {
+.bv-speed-solid {
 	&:before {
-		content: $bi-saving-pigs-solid;
+		content: $bv-speed-solid;
 	}
 }
-.bi-school-solid {
+.bv-sports-motorsports-solid {
 	&:before {
-		content: $bi-school-solid;
+		content: $bv-sports-motorsports-solid;
 	}
 }
-.bi-search-solid {
+.bv-swipe-right-solid {
 	&:before {
-		content: $bi-search-solid;
+		content: $bv-swipe-right-solid;
 	}
 }
-.bi-sentiment-dissatisfied-solid {
+.bv-target-solid {
 	&:before {
-		content: $bi-sentiment-dissatisfied-solid;
+		content: $bv-target-solid;
 	}
 }
-.bi-sentiment-satisfied-solid {
+.bv-thumb-up-solid {
 	&:before {
-		content: $bi-sentiment-satisfied-solid;
+		content: $bv-thumb-up-solid;
 	}
 }
-.bi-sentiment-very-satisfied-solid {
+.bv-trophy-solid {
 	&:before {
-		content: $bi-sentiment-very-satisfied-solid;
+		content: $bv-trophy-solid;
 	}
 }
-.bi-settings-solid {
+.bv-verified-solid {
 	&:before {
-		content: $bi-settings-solid;
+		content: $bv-verified-solid;
 	}
 }
-.bi-shield-with-house-solid {
+.bv-warning-solid {
 	&:before {
-		content: $bi-shield-with-house-solid;
+		content: $bv-warning-solid;
 	}
 }
-.bi-smart-display-solid {
+.bv-watch-later-solid {
 	&:before {
-		content: $bi-smart-display-solid;
+		content: $bv-watch-later-solid;
 	}
 }
-.bi-smartphone-solid {
+.bv-wifi-solid {
 	&:before {
-		content: $bi-smartphone-solid;
+		content: $bv-wifi-solid;
 	}
 }
-.bi-snap-solid {
+.bv-work-solid {
 	&:before {
-		content: $bi-snap-solid;
+		content: $bv-work-solid;
 	}
 }
-.bi-solar-panel-solid {
+.bv-youtube-solid {
 	&:before {
-		content: $bi-solar-panel-solid;
+		content: $bv-youtube-solid;
 	}
 }
-.bi-speaker-notes-solid {
+.bv-add-solid {
 	&:before {
-		content: $bi-speaker-notes-solid;
+		content: $bv-add-solid;
 	}
 }
-.bi-speed-solid {
+.bv-arrow-back-solid {
 	&:before {
-		content: $bi-speed-solid;
+		content: $bv-arrow-back-solid;
 	}
 }
-.bi-sports-motorsports-solid {
+.bv-arrow-forward-solid {
 	&:before {
-		content: $bi-sports-motorsports-solid;
+		content: $bv-arrow-forward-solid;
 	}
 }
-.bi-swipe-right-solid {
+.bv-arrow-north-east-solid {
 	&:before {
-		content: $bi-swipe-right-solid;
+		content: $bv-arrow-north-east-solid;
 	}
 }
-.bi-target-solid {
+.bv-arrow-north-solid {
 	&:before {
-		content: $bi-target-solid;
+		content: $bv-arrow-north-solid;
 	}
 }
-.bi-thumb-up-solid {
+.bv-arrow-north-weast-solid {
 	&:before {
-		content: $bi-thumb-up-solid;
+		content: $bv-arrow-north-weast-solid;
 	}
 }
-.bi-trophy-solid {
+.bv-arrow-south-solid {
 	&:before {
-		content: $bi-trophy-solid;
+		content: $bv-arrow-south-solid;
 	}
 }
-.bi-verified-solid {
+.bv-chevron-back-solid {
 	&:before {
-		content: $bi-verified-solid;
+		content: $bv-chevron-back-solid;
 	}
 }
-.bi-warning-solid {
+.bv-chevron-down-solid {
 	&:before {
-		content: $bi-warning-solid;
+		content: $bv-chevron-down-solid;
 	}
 }
-.bi-watch-later-solid {
+.bv-chevron-downward-solid {
 	&:before {
-		content: $bi-watch-later-solid;
+		content: $bv-chevron-downward-solid;
 	}
 }
-.bi-wifi-solid {
+.bv-chevron-forward-solid {
 	&:before {
-		content: $bi-wifi-solid;
+		content: $bv-chevron-forward-solid;
 	}
 }
-.bi-work-solid {
+.bv-chevron-left-solid {
 	&:before {
-		content: $bi-work-solid;
+		content: $bv-chevron-left-solid;
 	}
 }
-.bi-youtube-solid {
+.bv-chevron-right-solid {
 	&:before {
-		content: $bi-youtube-solid;
+		content: $bv-chevron-right-solid;
+	}
+}
+.bv-chevron-up-solid {
+	&:before {
+		content: $bv-chevron-up-solid;
+	}
+}
+.bv-chevron-upward-solid {
+	&:before {
+		content: $bv-chevron-upward-solid;
+	}
+}
+.bv-close-solid {
+	&:before {
+		content: $bv-close-solid;
+	}
+}
+.bv-launch-solid {
+	&:before {
+		content: $bv-launch-solid;
+	}
+}
+.bv-remove-solid {
+	&:before {
+		content: $bv-remove-solid;
 	}
 }
