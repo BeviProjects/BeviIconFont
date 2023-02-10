@@ -63,7 +63,7 @@ Em alguns ícones é possível controlar o peso de fonte, normalmente em ícones
 
 ```css
 .font-weight-bold {
-	font-weight: 600;
+  font-weight: 600;
 }
 ```
 
